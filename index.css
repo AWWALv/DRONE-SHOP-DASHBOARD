@@ -277,7 +277,7 @@ main .insights svg circle{
 }
 
 main .insights .sales svg circle{
-    stroke-dashoffset: -30;
+    stroke-dashoffset:20;
     stroke-dasharray: 200;
 }
 
